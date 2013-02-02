@@ -1,0 +1,30 @@
+[submodule "vim-pathogen"]
+	path = vim-pathogen
+	url = https://github.com/tpope/vim-pathogen.git
+[submodule "bundle/auto-pairs.git"]
+	path = bundle/auto-pairs.git
+	url = git://github.com/jiangmiao/auto-pairs.git
+[submodule "bundle/nerdtree.git"]
+	path = bundle/nerdtree.git
+	url = git://github.com/scrooloose/nerdtree.git
+[submodule "bundle/vim-snipmate.git"]
+	path = bundle/vim-snipmate.git
+	url = git://github.com/garbas/vim-snipmate.git
+[submodule "bundle/snipmate-snippets.git"]
+	path = bundle/snipmate-snippets.git
+	url = git://github.com/honza/snipmate-snippets.git
+[submodule "bundle/supertab.git"]
+	path = bundle/supertab.git
+	url = git://github.com/ervandew/supertab.git
+[submodule "bundle/tlib.git"]
+	path = bundle/tlib.git
+	url = git://github.com/vim-scripts/tlib.git
+[submodule "bundle/vim-addon-mw-utils.git"]
+	path = bundle/vim-addon-mw-utils.git
+	url = git://github.com/MarcWeber/vim-addon-mw-utils.git
+[submodule "bundle/vim-endwise.git"]
+	path = bundle/vim-endwise.git
+	url = git://github.com/tpope/vim-endwise.git
+[submodule "bundle/vim-ruby.git"]
+	path = bundle/vim-ruby.git
+	url = git://github.com/vim-ruby/vim-ruby.git
