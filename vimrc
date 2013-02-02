@@ -18,4 +18,5 @@ set autoindent
 set copyindent
 set smarttab
 set showcmd
+
 vnoremap <BS> d
