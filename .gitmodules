@@ -29,5 +29,5 @@
 	path = bundle/vim-ruby.git
 	url = git://github.com/vim-ruby/vim-ruby.git
 [submodule "bundle/tagbar.git"]
-	path = bundle/tagbar
+	path = bundle/tagbar.git
 	url = git://github.com/majutsushi/tagbar
