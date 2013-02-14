@@ -37,3 +37,12 @@
 [submodule "bundle/xoria256.git"]
 	path = bundle/xoria256.git
 	url = git://github.com/vim-scripts/xoria256.vim.git
+[submodule "bundle/vim-powerline.git"]
+	path = bundle/vim-powerline.git
+	url = git://github.com/Lokaltog/vim-powerline.git
+[submodule "bundle/vim-fugitive.git"]
+	path = bundle/vim-fugitive.git
+	url = git://github.com/tpope/vim-fugitive.git
+[submodule "bundle/syntastic.git"]
+	path = bundle/syntastic.git
+	url = git://github.com/scrooloose/syntastic.git

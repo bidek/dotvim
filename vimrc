@@ -11,6 +11,7 @@ set copyindent
 set smarttab
 set showcmd
 set visualbell
+set laststatus=2
 
 
 filetype on        
@@ -22,3 +23,6 @@ execute pathogen#infect()
 colorscheme xoria256
 vnoremap  <BS> d
 nmap      <F2> :NERDTreeToggle<CR>
+
+
+let g:Powerline_symbols = 'fancy'
