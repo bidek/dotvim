@@ -34,3 +34,6 @@
 [submodule "bundle/command-t.git"]
 	path = bundle/command-t.git
 	url = https://github.com/vim-scripts/Command-T.git
+[submodule "bundle/xoria256.git"]
+	path = bundle/xoria256.git
+	url = git://github.com/vim-scripts/xoria256.vim.git
