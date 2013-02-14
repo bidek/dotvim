@@ -10,6 +10,7 @@ set autoindent
 set copyindent
 set smarttab
 set showcmd
+set visualbell
 
 
 filetype on        
