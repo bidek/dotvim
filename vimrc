@@ -25,6 +25,8 @@ colorscheme xoria256
 vnoremap  <BS> d
 nmap      <F2> :NERDTreeToggle<CR>
 nmap      <F3> :TagbarToggle<CR>
-
-
 let g:Powerline_symbols = 'fancy'
+
+if $COLORTERM == 'gnome-terminal'
+  set t_Co=256
+endif
